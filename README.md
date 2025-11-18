@@ -54,19 +54,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# PIC Microcontroller Interfacing with LCD
-
-- Course: PIC Microcontroller Interfacing with LCD
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/lcd-pic-microcontroller-interfacing-with-lcd/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Interface character LCDs with PIC microcontrollers to display messages.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and show data on LCDs.
